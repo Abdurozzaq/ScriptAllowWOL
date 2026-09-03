@@ -1,0 +1,2 @@
+# ScriptAllowWOL
+ScriptAllowWOL
